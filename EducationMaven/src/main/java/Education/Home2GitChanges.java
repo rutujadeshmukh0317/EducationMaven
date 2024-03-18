@@ -23,7 +23,7 @@ public class Home2GitChanges {
 
 	public void classCode()
 	{
-  classCode.sendKeys("RD");	
+  classCode.sendKeys("RG"); //manager did changes	
 }
 	
 	public void Continue()
