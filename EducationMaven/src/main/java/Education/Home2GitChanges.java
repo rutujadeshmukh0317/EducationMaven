@@ -31,8 +31,5 @@ public class Home2GitChanges {
 		Cont.click();
 	}
 	
-	public void Back()
-	{
-		back.click(); 
-	}
+	
 }
