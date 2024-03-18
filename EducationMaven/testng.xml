@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="TestNG.InvocationCount"/>
+      <class name="TestNG.TestNG_Annotations"/>
+      <class name="TestNG.DependsOnMethods"/>
+      <class name="CrossBrowser.browserTest"/>
+      <class name="TestNG.Test_Teachers_Annotation"/>
+      <class name="TestNG.TimeOut"/>
+      <class name="TestNG.Test_Profile_Annotation"/>
+      <class name="TestNG.Validation_Asserts"/>
+      <class name="TestNG.AssertionFailTestCase"/>
+      <class name="TestNG.Priority"/>
+      <class name="TestNG.EnableFalse"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
